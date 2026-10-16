@@ -1,0 +1,10 @@
+.tools/
+lib/
+build/
+responses/
+cardlife-launcher.jar
+launcher.log
+launcher-error.log
+launcher.properties
+*.bak
+urls.txt
